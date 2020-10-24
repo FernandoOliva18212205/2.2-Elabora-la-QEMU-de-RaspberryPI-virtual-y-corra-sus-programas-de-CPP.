@@ -24,6 +24,7 @@
 # Programa 1
 //Programa 16.- imprimir la tabla de multiplicar hasta 12x12 
 
+```bash
 #include <iostream>
 #include <string>
 using namespace std;
@@ -47,4 +48,5 @@ for (int i = 1; i <= 12; i++)
 }
 }
 
+```
 
