@@ -1,7 +1,7 @@
 /*
 INSTITUTO TECNOLOGICO DE TIJUANA
 CARLOS FERNANDO LEAL OLIVA
-NO.CONTROL: 18212282
+NO.CONTROL: 18212205
 */
 //Programa 17. - Calcular e imprimir la suma de los enteros del 1 al 20. 
 
